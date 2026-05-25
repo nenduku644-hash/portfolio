@@ -64,7 +64,7 @@ form.addEventListener("submit", async (e) => {
 
     try {
 
-        const response = await fetch("https://portfolio-backend-wj6h.onrender.com/send", {
+        const response = await fetch("https://backend-barr.onrender.com/send", {
 
             method: "POST",
 
